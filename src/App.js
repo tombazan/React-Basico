@@ -32,6 +32,7 @@ function App() {
           key= {producto.id}
           producto= {producto}
           carrito= {carrito}
+          productos= {productos}
           agregarProducto= {agregarProducto}
         />
       ))}
